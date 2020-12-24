@@ -1,5 +1,5 @@
 
-# Run this CLI app by using ---------------------------------------------------------
+# Run this CLI app by using 
 
 RUN THE FILE BY USING COMMAND "$ node ./todo.js help"
 
