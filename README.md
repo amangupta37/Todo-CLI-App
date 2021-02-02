@@ -176,30 +176,7 @@ $ ./todo del 5
 Error: todo #5 does not exist. Nothing deleted.
 ```
 
-### 5. Mark a todo item as completed
 
-Use the `done` command to mark a todo item as completed by its number.
-
-```
-$ ./todo done 1
-Marked todo #1 as done.
-```
-
-Attempting to mark a non-existed todo item as completed will display an error message.
-
-```
-$ ./todo done 5
-Error: todo #5 does not exist.
-```
-
-### 6. Generate a report
-
-Use the `report` command to see the latest tally of pending and completed todos.
-
-```
-$ ./todo report
-yyyy-mm-dd Pending : 1 Completed : 4
-```
 
 ## Improving README.md
 
