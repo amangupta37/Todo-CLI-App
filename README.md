@@ -45,9 +45,4 @@ You need to have npm installed in your computer for this problem. It comes with 
 Run `npm install` to install all dependencies.
 
 
-
-
-
-## Improving README.md
-
 If you feel like we are missing out steps, feel free to make a pull request. [Github Repo](https://github.com/nseadlc-2020/package-todo-cli-task)
