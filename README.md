@@ -34,15 +34,3 @@ Here's how it should work when you're done:
    ```
    ./todo.sh
    ```
-## Run Automated Tests
-
-### 1. Install Node.js
-
-You need to have npm installed in your computer for this problem. It comes with Node.js and you can get it by installing Node from https://nodejs.org/en/
-
-### 2. Install dependencies
-
-Run `npm install` to install all dependencies.
-
-
-If you feel like we are missing out steps, feel free to make a pull request. [Github Repo](https://github.com/nseadlc-2020/package-todo-cli-task)
